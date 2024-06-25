@@ -1,5 +1,5 @@
 ---
-title: Template for a Magic App
+title: Nexi Live
 description: This architecture ensures that frontend developers focus solely on building the user interface and client-side logic, without direct access to production data. Backend developers manage data processing and API creation, maintaining strict access controls through the MagicPot. The use of GitHub Actions for continuous integration and deployment automates the process of building and publishing Docker images, while the PowerShell script facilitates seamless deployment to Kubernetes.
 ---
 
